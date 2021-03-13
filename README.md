@@ -1,2 +1,2 @@
-# GRECO-modisco-pipeline
-JASPAR (RSAT-based) motif discovery pipeline for GRECO.
+# GRECO-BIT-motif-discovery-pipeline
+JASPAR (RSAT-based) motif discovery pipeline for GRECO-BIT.
